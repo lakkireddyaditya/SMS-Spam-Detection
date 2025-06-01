@@ -59,5 +59,5 @@ The dataset used is the [SMS Spam Collection Dataset](https://archive.ics.uci.ed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lakkireddyaditya/CODSOFT.git
-   cd CODSOFT
+git clone https://github.com/lakkireddyaditya/SMS-Spam-Detection.git
+
